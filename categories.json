@@ -90,8 +90,13 @@
       "visible":true
    },
    {
-      "image":"https://raw.githubusercontent.com/sergiomattioli/mexicoStickers/master/memes/1.png",
-      "name":"Memes",
+      "image":"https://raw.githubusercontent.com/sergiomattioli/mexicoStickers/master/memes1/1.png",
+      "name":"Memes 1",
+      "visible":true
+   },
+   {
+      "image":"https://raw.githubusercontent.com/sergiomattioli/mexicoStickers/master/memes2/1.png",
+      "name":"Memes 2",
       "visible":true
    },
    {
