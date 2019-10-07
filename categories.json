@@ -1,5 +1,10 @@
 [
    {
+     "image":"https://raw.githubusercontent.com/sergiomattioli/mexicoStickers/master/amlo/1.png",
+     "name":"AMLO",
+     "visible":true
+   },
+   {
       "image":"https://raw.githubusercontent.com/sergiomattioli/mexicoStickers/master/bebidas/1.png",
       "name":"Bebidas",
       "visible":true
@@ -12,7 +17,22 @@
    {
       "image":"https://raw.githubusercontent.com/sergiomattioli/mexicoStickers/master/cactus/1.png",
       "name":"Cactus",
-     "visible":true
+      "visible":true
+   },
+   {
+      "image":"https://raw.githubusercontent.com/sergiomattioli/mexicoStickers/master/cantinflas/1.png",
+      "name":"Cantinflas",
+      "visible":true
+   },
+   {
+      "image":"https://raw.githubusercontent.com/sergiomattioli/mexicoStickers/master/cats/1.png",
+      "name":"Cats",
+      "visible":true
+   },
+   {
+      "image":"https://raw.githubusercontent.com/sergiomattioli/mexicoStickers/master/chabelo/1.png",
+      "name":"Chabelo",
+      "visible":true
    },
    {
       "image":"https://raw.githubusercontent.com/sergiomattioli/mexicoStickers/master/chavo/1.png",
@@ -22,6 +42,86 @@
    {
       "image":"https://raw.githubusercontent.com/sergiomattioli/mexicoStickers/master/comidas/1.png",
       "name":"Comidas",
+      "visible":true
+   },
+   {
+      "image":"https://raw.githubusercontent.com/sergiomattioli/mexicoStickers/master/dibujos1/1.png",
+      "name":"Dibujos 1",
+      "visible":true
+   },
+   {
+      "image":"https://raw.githubusercontent.com/sergiomattioli/mexicoStickers/master/dibujos2/1.png",
+      "name":"Dibujos 2",
+      "visible":true
+   },
+   {
+      "image":"https://raw.githubusercontent.com/sergiomattioli/mexicoStickers/master/dogs/1.png",
+      "name":"Dogs",
+      "visible":true
+   },
+   {
+      "image":"https://raw.githubusercontent.com/sergiomattioli/mexicoStickers/master/familiapeluche/1.png",
+      "name":"Familia Peluche",
+      "visible":true
+   },
+   {
+      "image":"https://raw.githubusercontent.com/sergiomattioli/mexicoStickers/master/frida/1.png",
+      "name":"Frida",
+      "visible":true
+   },
+   {
+      "image":"https://raw.githubusercontent.com/sergiomattioli/mexicoStickers/master/futbol/1.png",
+      "name":"Futbol",
+      "visible":true
+   },
+   {
+      "image":"https://raw.githubusercontent.com/sergiomattioli/mexicoStickers/master/harina/1.png",
+      "name":"Harina",
+      "visible":true
+   },
+   {
+      "image":"https://raw.githubusercontent.com/sergiomattioli/mexicoStickers/master/jennyrivera/1.png",
+      "name":"Jenny Rivera",
+      "visible":true
+   },
+   {
+      "image":"https://raw.githubusercontent.com/sergiomattioli/mexicoStickers/master/lafamiliadediez/1.png",
+      "name":"La Familia de Diez",
+      "visible":true
+   },
+   {
+      "image":"https://raw.githubusercontent.com/sergiomattioli/mexicoStickers/master/memes/1.png",
+      "name":"Memes",
+      "visible":true
+   },
+   {
+      "image":"https://raw.githubusercontent.com/sergiomattioli/mexicoStickers/master/memeslocales/1.png",
+      "name":"Memes Locales",
+      "visible":true
+   },
+   {
+      "image":"https://raw.githubusercontent.com/sergiomattioli/mexicoStickers/master/mexico/1.png",
+      "name":"Mexico",
+      "visible":true
+   },
+   {
+      "image":"https://raw.githubusercontent.com/sergiomattioli/mexicoStickers/master/politicos/1.png",
+      "name":"Politicos",
+      "visible":true
+   },
+   {
+      "image":"https://raw.githubusercontent.com/sergiomattioli/mexicoStickers/master/trump/1.png",
+      "name":"Trump",
+      "visible":true
+   },
+   {
+      "image":"https://raw.githubusercontent.com/sergiomattioli/mexicoStickers/master/vecinos/1.png",
+      "name":"Vecinos",
+      "visible":true
+   },
+   {
+      "image":"https://raw.githubusercontent.com/sergiomattioli/mexicoStickers/master/youtubers/1.png",
+      "name":"Youtubers",
       "visible":true
    }
 ]
