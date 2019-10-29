@@ -45,6 +45,11 @@
       "visible":true
    },
    {
+      "image":"https://raw.githubusercontent.com/sergiomattioli/mexicoStickers/master/diadelosmuertos/1.png",
+      "name":"Dia de los Muertos",
+      "visible":true
+   },
+   {
       "image":"https://raw.githubusercontent.com/sergiomattioli/mexicoStickers/master/dibujos1/1.png",
       "name":"Dibujos 1",
       "visible":true
